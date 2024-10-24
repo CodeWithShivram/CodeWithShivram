@@ -47,8 +47,9 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/codeWithShivram/codeWithShivram/blob/output/snake.svg)
+<img src="https://raw.githubusercontent.com/codewithshivram/codewithshivram/output/snake.svg" alt="Snake animation" />
 
+###
 ###
 
 <div align="left">
