@@ -47,8 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/codewithshivram/codewithshivram/output/snake.svg" alt="Snake animation" />
-
 ###
 ###
 
